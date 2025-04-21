@@ -80,7 +80,7 @@ RULES = {
     "G": "G"            # G just draws (or could grow: G->GG)
     # "F": "FF" # Alternative: Make segments grow longer
 }
-ITERATIONS = 6             # More iterations for detail
+ITERATIONS = 10             # More iterations for detail
 ANGLE = 30                 # Wider angle for fan shape
 STEP = 4                   # Step length
 
